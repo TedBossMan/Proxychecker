@@ -1,0 +1,17 @@
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\obj\Debug\Proxychecker.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\obj\Debug\Proxychecker.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\bin\Debug\Proxychecker.exe.config
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\bin\Debug\Proxychecker.exe
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\bin\Debug\Proxychecker.pdb
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\obj\Debug\Proxychecker.exe
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\obj\Debug\Proxychecker.pdb
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\bin\Debug\MihaZupan.HttpToSocks5Proxy.dll
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\obj\Debug\Proxychecker.csproj.CopyComplete
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\bin\Debug\phantomjs-license.txt
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\bin\Debug\WebDriver.dll
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\bin\Debug\WebDriver.Support.dll
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\bin\Debug\WebDriver.xml
+C:\Users\Rick\source\repos\Proxychecker\Proxychecker\bin\Debug\WebDriver.Support.xml
